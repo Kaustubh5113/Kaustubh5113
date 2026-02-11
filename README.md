@@ -1,12 +1,85 @@
-<h1 align="center">Hello 👋, I'm Kaustubh Kshirsagar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Kaustubh Kshirsagar</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh5113&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh5113" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaustubh000003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh000003" height="30" width="40" /></a>
+<p align="center">
+  🚀 Transitioning from IT Support to DevOps <br>
+  🔧 Passionate about Automation, CI/CD & Cloud Infrastructure <br>
+  ☁️ AWS | Docker | Kubernetes | Linux | GitHub Actions
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<hr>
+
+<h2>👨‍💻 About Me</h2>
+
+<ul>
+  <li>💼 Currently working as IT Support Engineer</li>
+  <li>🌱 Actively learning DevOps & Cloud Technologies</li>
+  <li>🛠️ Hands-on experience with Docker, CI/CD, Linux Administration</li>
+  <li>🎯 Goal: Become DevOps Engineer in a reputed MNC</li>
+</ul>
+
+<hr>
+
+<h2>🛠️ DevOps Tech Stack</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,jenkins,python,bash,terraform" />
+</p>
+
+<hr>
+
+<h2>📂 Featured DevOps Projects</h2>
+
+<ul>
+  <li>
+    🔹 <b>Dockerized Python App</b><br>
+    - Containerized Python application using Docker<br>
+    - Created Dockerfile and optimized image size<br>
+    - Tested multi-stage builds
+  </li>
+  <br>
+  <li>
+    🔹 <b>CI/CD Pipeline with GitHub Actions</b><br>
+    - Automated build and deployment process<br>
+    - Integrated Docker build & push<br>
+    - Triggered on every push
+  </li>
+  <br>
+  <li>
+    🔹 <b>Linux Server Automation</b><br>
+    - User management scripts<br>
+    - Log monitoring automation<br>
+    - Service monitoring using cron jobs
+  </li>
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  ⭐ Always building. Always learning. Automating everything.
+</p>
