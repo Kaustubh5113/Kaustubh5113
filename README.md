@@ -31,7 +31,7 @@
 <h2>📂 Featured DevOps Projects</h2>
 
 <ul>
-  <li>
+  <!-- <li>
     🔹 <b>Dockerized Python App</b><br>
     - Containerized Python application using Docker<br>
     - Created Dockerfile and optimized image size<br>
@@ -50,7 +50,7 @@
     - User management scripts<br>
     - Log monitoring automation<br>
     - Service monitoring using cron jobs
-  </li>
+  </li> -->
 </ul>
 
 <hr>
@@ -58,11 +58,11 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh5113E&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh5113&theme=radical" />
 </p>
 
 <hr>
@@ -70,10 +70,10 @@
 <h2>📫 Connect With Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/kaustubh-kshirsagar03/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:kaustubhkshirsagar6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
